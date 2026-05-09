@@ -14,7 +14,7 @@
 - **接續工作**：對 Claude 說「**開工**」→ 讀工作筆記、報告進度、建議下一步
 
 ## 工作桌 + 三個家
-- 📋 GDrive 工作桌：`G:\我的雲端硬碟\細胞實驗服務\`（自動跨電腦同步）
+- 📋 GDrive 工作桌：`G:\我的雲端硬碟\專案資料\細胞實驗服務\`（自動跨電腦同步）
 - 🐙 GitHub repo：`weichankai-ops/cell-service`（公開，網頁的家）
 - 📘 Obsidian 駕駛艙：`secondbrain/細胞實驗服務/工作筆記.md`（想法的家）
 - 🔥 Firebase 專案：`biotech-tools`（資料的家）
