@@ -1,0 +1,32 @@
+# Google Drive 系統檔
+desktop.ini
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
+
+# 敏感資料
+.env
+*.key
+credentials.*
+*.pem
+*.p12
+
+# Claude Code 本地設定（含 permissions、可能記錄 token，絕不上雲）
+.claude/
+
+# Node.js
+node_modules/
+package-lock.json
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# 生成的圖片（體積大，不 commit）
+generated/
+slides/generated/
